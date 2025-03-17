@@ -1,5 +1,8 @@
 langchain
 langchain_groq
+<<<<<<< HEAD
 google-generativeai
+=======
+>>>>>>> 3a29c1fdf755c8b0a496c02d6b6dfc8f29a86dd8
 python-dotenv
 rich
